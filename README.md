@@ -4,5 +4,6 @@ This repository contains interactive tutorials on the basics of financial deriva
 
 
 Content plan:
-  1. Forward contracts [by October 9]
-  2. European options [by October 23]
+  1. Forward contracts [check]
+  2. Options (part 1) [check]
+  3. Options (part 2) [by November 6]
